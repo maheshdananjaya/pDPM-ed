@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/WukLab/pDPM/blob/master/Documentation/logo.png" height="220" width="250">
-</p>
-
 This is a copy of pDPM project. please refer to the original source. 
 __Passive Disaggregated Persistent Memory (pDPM) at USENIX ATC 2020__
 
